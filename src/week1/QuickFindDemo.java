@@ -3,7 +3,7 @@ package week1;
 /**
  * Created by tonmoy on 06-Aug-17.
  */
-public class Main {
+public class QuickFindDemo {
   public static void main(String[] args) {
     QuickFindUF quickFind = new QuickFindUF(10);
 
