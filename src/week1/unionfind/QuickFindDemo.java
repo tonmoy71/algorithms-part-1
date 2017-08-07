@@ -1,11 +1,11 @@
-package week1;
+package week1.unionfind;
 
 /**
  * Created by tonmoy on 06-Aug-17.
  */
 public class QuickFindDemo {
   public static void main(String[] args) {
-    QuickFindUF quickFind = new QuickFindUF(10);
+    QuickFind quickFind = new QuickFind(10);
 
     quickFind.union(0, 5);
     quickFind.union(5, 6);

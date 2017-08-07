@@ -1,4 +1,4 @@
-package week1;
+package week1.unionfind;
 
 /**
  * Created by tonmoy on 06-Aug-17.

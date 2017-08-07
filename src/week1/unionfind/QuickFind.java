@@ -1,12 +1,12 @@
-package week1;
+package week1.unionfind;
 
 /**
  * Created by tonmoy on 06-Aug-17.
  */
-public class QuickFindUF {
+public class QuickFind {
   private int[] id;
 
-  public QuickFindUF(int size) {
+  public QuickFind(int size) {
     this.id = new int[size];
 
     for (int i = 0; i < id.length; i++) {
